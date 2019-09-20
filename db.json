@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "studentFirstName": "Jinyu",
+    "studentLastName": "Zhu",
+    "studentSchool": 147,
+    "studentGrade": 7,
+    "parentFirstName": "Xu",
+    "parentLastName": "Gao",
+    "parentPhone": "514-692-0292",
+    "parentEmail": "rosa5877@hotmail.com",
+    "parentAccount": "xgao",
+    "parentPassword": "emsbemsb"
+  },
+  {
+    "id": 2,
+    "studentFirstName": "Andi",
+    "studentLastName": "Huang",
+    "studentSchool": 105,
+    "studentGrade": 11,
+    "parentFirstName": "Xiao",
+    "parentLastName": "Huang",
+    "parentPhone": "514-233-1818",
+    "parentEmail": "xiaoh@hotmail.com",
+    "parentAccount": "xhuang",
+    "parentPassword": "emsbemsb"
+  }
+]
